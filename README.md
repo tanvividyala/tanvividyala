@@ -1,6 +1,6 @@
 ### Hi, I'm Tanvi! 🌞
 
-I’m an undergrad at UC San Diego interested in studying human-computer interaction and its intersection with data to build tools that are educational and accessible. 
+I’m an undergrad at UC San Diego studying human-computer interaction and its intersection with data to build tools that are educational and accessible. 
 
 Currently I'm...
 - 📚 Developing web tools for educators as a Web Development Intern with UCSD ComputingPaths.
