@@ -9,6 +9,5 @@ Currently I'm...
 Previously I've...
 - 🍎 Analyzed food distribution and socioeconomic disparities in San Diego at the Data Science Alliance
 - 🤖 Investigated developers' perceptions of humanness in AI agents and their implications for neurodiverse individuals at the Ujima S&P Group.
-- 💬 Researched how children learn to talk about emotions using computational methods with the Producing and Perceiving Language Lab at UCSB.
-
+  
 I'm looking for opportunities in Data Analytics and Product Management. You can contact me at tvidyala@ucsd.edu 📫 
