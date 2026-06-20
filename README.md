@@ -1,5 +1,5 @@
 ## Hi, I'm Tanvi! 🌞
 
-I’m a junior at UC San Diego, studying the intersection of human-computer interaction and data science. My work focuses on using data to decode behavior and build products that make the world a little bit better, from analyzing large-scale healthcare campaigns to developing tools to support educators. 
+I'm an incoming MSDS student at UC San Diego studying Data Science and HCI. My work focuses on using data to decode behavior and build products that make the world a little bit better, from analyzing large-scale healthcare campaigns to designing tools to support educators. Excited about accessibility in tech and building systems that are safe, transparent, and human-centered. 
 
-Outside of work, you can find me exploring local cafes, making music, or rollerskating. You can contact me at tvidyala@ucsd.edu.
+Always happy to connect! You can reach me at tvidyala@ucsd.edu.
