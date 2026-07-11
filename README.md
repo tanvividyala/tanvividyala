@@ -1,4 +1,4 @@
-## hello, i'm tanvi 🌞
+## my name is tanvi 🌞
 
 i'm a student at uc san diego studying data science. my  work focuses on using data to decode behavior and build products that make the world a little bit better, from analyzing large-scale healthcare campaigns to designing tools to support educators. excited about accessibility in tech and building systems that are safe, transparent, and human-centered. 
 
